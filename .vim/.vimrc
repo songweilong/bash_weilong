@@ -1,3 +1,9 @@
+set list
+
+set expandtab
+
+set smarttab
+
 set nocompatible            " 关闭 vi 兼容模式
 
 syntax on                   " 自动语法高亮
